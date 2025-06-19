@@ -1,11 +1,12 @@
 import Button from "./NavbarButton.jsx";
 
+
 const Navbar = () => {
   return (
     <div className="max-w-[1170px] m-auto">
       <div className="flex justify-between items-center text-[18px] py-5">
         <div className="">
-            <img className="w-15" src="react.svg" alt="" />
+            <h5>Logo.svg</h5>
         </div>
         <div className="">
           <ul className="flex gap-10">
