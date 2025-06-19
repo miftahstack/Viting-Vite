@@ -6,7 +6,7 @@ const Navbar = () => {
     <div className="max-w-[1170px] m-auto">
       <div className="flex justify-between items-center text-[18px] py-5">
         <div className="">
-            <h5>Logo.svg</h5>
+            <h5 className="font-bold cursor-pointer">Logo.svg</h5>
         </div>
         <div className="">
           <ul className="flex gap-10">
