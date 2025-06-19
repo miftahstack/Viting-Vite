@@ -5,7 +5,7 @@ const Navbar = () => {
     <div className="max-w-[1170px] m-auto">
       <div className="flex justify-between items-center text-[18px] py-5">
         <div className="">
-            <img className="w-15" src="./assets/react.svg" alt="" />
+            <img className="w-15" src="../assets/react.svg" alt="" />
         </div>
         <div className="">
           <ul className="flex gap-10">
